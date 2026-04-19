@@ -26,10 +26,6 @@ I am building a profile at the intersection of **cybersecurity, software, networ
 - Investigating user access and traffic-related issues in corporate environments through structured technical analysis
 - Strengthening practical knowledge in **networking**, **security controls**, and **problem isolation**
 
-### Mathematics and Physics Tutor — TusClasesParticulares  
-**Sep 2020 – Jun 2025**
-- Helped students understand technical concepts through structured explanations and problem-solving methods
-- Strengthened communication skills and the ability to explain complex ideas clearly
 
 ---
 
